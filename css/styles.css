@@ -24,6 +24,7 @@ a {
   line-height: 1.5;
   text-align: center;
   display: block;
+  margin-top: 200px;
   width: 100%;
 }
 
@@ -69,6 +70,7 @@ a {
   padding: 0px 18px;
   margin-left: 160px;
   margin-right: 160px;
+  margin-top: 50px;
 }
 
 
@@ -98,11 +100,11 @@ a {
 /* Title Image */
 
 .title-image {
-  width: 15%;
+  width: 30%;
   transform: rotate(0deg);
   position: absolute;
-  right: 90.5%;
-  top: -330px;
+  right: 85%;
+  margin-top: -420px;
 }
 
 /* Features Section */
